@@ -2641,7 +2641,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Molunerfinn/PicGo</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2683,7 +2683,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>Zarbuz/FileToVox</span>
-                                            <span>starred 3 days ago</span>
+                                            <span>starred 4 days ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -3273,7 +3273,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 12/10/2021, 22:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.15.0-beta</span>
+                    <span>Last updated 12/10/2021, 22:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.15.0-beta</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
