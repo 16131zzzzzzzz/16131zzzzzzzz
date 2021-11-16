@@ -2736,7 +2736,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tencent/tencent-ml-images</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet</div>
@@ -3441,7 +3441,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2021, 17:35:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 16 Nov 2021, 18:02:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
