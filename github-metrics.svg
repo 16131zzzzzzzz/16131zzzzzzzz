@@ -2842,7 +2842,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/docs</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source repo for docs.github.com</div>
@@ -2895,7 +2895,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rahuldkjain/github-profile-readme-generator</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.</div>
@@ -3441,7 +3441,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2021, 12:02:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 16 Nov 2021, 12:45:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
