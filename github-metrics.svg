@@ -2746,7 +2746,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kyubyong/word_prediction</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Word Prediction using Convolutional Neural Networks</div>
@@ -2887,7 +2887,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tencent/tencent-ml-images</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet</div>
@@ -3433,7 +3433,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2021, 17:36:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 18 Nov 2021, 18:02:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
