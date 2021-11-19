@@ -2714,7 +2714,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asyml/texar</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/</div>
@@ -2767,7 +2767,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rougier/scientific-visualization-book</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open access book on scientific visualization using python and matplotlib</div>
@@ -3407,7 +3407,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2021, 04:02:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 20 Nov 2021, 04:35:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
