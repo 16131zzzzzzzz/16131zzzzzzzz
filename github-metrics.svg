@@ -2751,7 +2751,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rougier/scientific-visualization-book</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open access book on scientific visualization using python and matplotlib</div>
@@ -2772,7 +2772,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        4.69k
+                                        4.70k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2804,7 +2804,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kyubyong/word_prediction</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Word Prediction using Convolutional Neural Networks</div>
@@ -2851,7 +2851,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WangXiaoCao/poetry-generation</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pytorch-based， RNN，中文古诗词、歌词、散文自动生成</div>
@@ -2898,7 +2898,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Alic-yuan/nlp-beginner-finish</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">此项目完成了关于 NLP-Beginner：自然语言处理入门练习 的所有任务，所有代码都经过测试,可以正常运行。</div>
@@ -3438,7 +3438,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2021, 14:02:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 19 Nov 2021, 14:42:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
