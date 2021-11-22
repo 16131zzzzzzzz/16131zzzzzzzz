@@ -2731,7 +2731,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google-research-datasets/Objectron</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box describes the object’s position, orientation, and dimensions. The dataset contains about 15K annotated video clips and 4M annotated images in the following categories: bikes, books, bottles, cameras, cereal boxes, chairs, cups, laptops, and shoes</div>
@@ -2784,7 +2784,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mmmofan/YOLO_6D</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Implement Singleshotpose(Yolo 6d) in TensorFlow</div>
@@ -2831,7 +2831,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cheng052/BRNet</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">(CVPR 2021) Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds</div>
@@ -3424,7 +3424,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2021, 18:01:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 22 Nov 2021, 18:38:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
