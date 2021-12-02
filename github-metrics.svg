@@ -1358,7 +1358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>j96w/DenseFusion</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">"DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion" code repository</div>
@@ -1411,7 +1411,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HKUST-Aerial-Robotics/VINS-Fusion</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An optimization-based multi-sensor state estimator</div>
@@ -1464,7 +1464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Martin20150405/SLAM_AR_Android</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SLAM AR based on ORB_SLAM2 for Android platform (Licenced under GPL v3). Check video demo here https://www.bilibili.com/video/av56266271</div>
@@ -2057,7 +2057,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Dec 2021, 09:33:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 2 Dec 2021, 10:21:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
