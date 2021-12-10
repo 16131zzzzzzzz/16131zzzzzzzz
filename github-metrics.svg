@@ -1410,7 +1410,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LCS2-IIITD/MSH-COMICS</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-modal Sarcasm Detection and Humor Classification in Code-mixed Conversations</div>
@@ -1457,7 +1457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wrk226/pytorch-multimodal_sarcasm_detection</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">It is the implementation of paper "Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model"</div>
@@ -2056,7 +2056,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Dec 2021, 19:01:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 10 Dec 2021, 19:31:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
