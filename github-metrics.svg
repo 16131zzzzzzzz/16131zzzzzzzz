@@ -1353,7 +1353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aarcosg/traffic-sign-detection</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Traffic Sign Detection. Code for the paper entitled "Evaluation of deep neural networks for traffic sign detection systems".</div>
@@ -1406,7 +1406,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>raulmur/ORB_SLAM2</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities</div>
@@ -2058,7 +2058,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2021, 21:13:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 15 Dec 2021, 21:38:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
