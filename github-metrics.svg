@@ -1353,7 +1353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PaddlePaddle/PaddleSeg</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks from research to industrial applications.</div>
@@ -1459,7 +1459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ropas/pytea</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PyTea: PyTorch Tensor shape error analyzer</div>
@@ -2052,7 +2052,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2022, 13:07:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 5 Jan 2022, 13:34:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
