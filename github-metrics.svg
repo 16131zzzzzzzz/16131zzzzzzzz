@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QL-Win/QuickLook</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bring macOS “Quick Look” feature to Windows</div>
@@ -2026,7 +2026,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2022, 18:35:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.19.0-beta</span>
+                <span>Last updated 22 Jan 2022, 19:02:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.19.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
