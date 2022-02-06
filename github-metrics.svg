@@ -1332,7 +1332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jsvine/pdfplumber</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.</div>
@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vt-vl-lab/paper-gestalt</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deep Paper Gestalt</div>
@@ -1473,7 +1473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>veler/DevToys</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Swiss Army knife for developers.</div>
@@ -2019,7 +2019,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2022, 18:01:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0-beta</span>
+                <span>Last updated 6 Feb 2022, 18:34:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
