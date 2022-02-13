@@ -1332,7 +1332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DefTruth/lite.ai.toolkit</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv5, YOLOR, NanoDet, YOLOX, SCRFD, YOLOX .  MNN, NCNN, TNN, ONNXRuntime, CPU/GPU.</div>
@@ -2032,7 +2032,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2022, 15:01:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0-beta</span>
+                <span>Last updated 13 Feb 2022, 15:31:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
