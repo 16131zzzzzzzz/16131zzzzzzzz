@@ -1349,7 +1349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liuhuanyong/QASystemOnMedicalKG</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。</div>
@@ -1443,7 +1443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thohemp/6DRepNet</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Pytorch implementation of  6DRepNet: 6D Rotation representation for unconstrained head pose estimation.</div>
@@ -2088,7 +2088,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2022, 03:01:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 3 Mar 2022, 03:31:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
