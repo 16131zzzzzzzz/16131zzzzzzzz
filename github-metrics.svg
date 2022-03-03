@@ -1448,7 +1448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thohemp/6DRepNet</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Pytorch implementation of  6DRepNet: 6D Rotation representation for unconstrained head pose estimation.</div>
@@ -2093,7 +2093,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2022, 11:08:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 3 Mar 2022, 11:37:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
