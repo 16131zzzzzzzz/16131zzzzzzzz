@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kobiso/daily-arxiv-noti</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Daily arxiv notification with pre-defined keywords</div>
@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>THU-KEG/KECG</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Source code and datasets for EMNLP 2019 paper "Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model".</div>
@@ -1491,7 +1491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>z814081807/DeepNER</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">天池中药说明书实体识别挑战冠军方案；中文命名实体识别；NER; BERT-CRF &amp; BERT-SPAN &amp; BERT-MRC；Pytorch</div>
@@ -2077,7 +2077,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2022, 11:35:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 8 Mar 2022, 12:06:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
