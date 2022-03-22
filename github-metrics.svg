@@ -1450,7 +1450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kobiso/daily-arxiv-noti</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Daily arxiv notification with pre-defined keywords</div>
@@ -2077,7 +2077,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2022, 22:31:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0-beta</span>
+                <span>Last updated 22 Mar 2022, 23:02:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
