@@ -1322,7 +1322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>geek-ai/MAgent</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Platform for Many-agent Reinforcement Learning</div>
@@ -1375,7 +1375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openai/multiagent-particle-envs</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"</div>
@@ -2064,7 +2064,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2022, 03:31:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0-beta</span>
+                <span>Last updated 23 Apr 2022, 04:03:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
