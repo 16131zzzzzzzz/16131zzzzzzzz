@@ -1322,7 +1322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pinry/pinry</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.</div>
@@ -1375,7 +1375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bloomberg/memray</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Memray is a memory profiler for Python</div>
@@ -1428,7 +1428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pikepdf/pikepdf</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python library for reading and writing PDF, powered by qpdf</div>
@@ -2068,7 +2068,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Apr 2022, 01:14:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 30 Apr 2022, 01:43:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
