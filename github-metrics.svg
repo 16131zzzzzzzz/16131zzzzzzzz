@@ -1344,7 +1344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/ml-fairness-gym</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1398,7 +1398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Trusted-AI/AIF360</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.</div>
@@ -1451,7 +1451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fairlearn/fairlearn</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python package to assess and improve fairness of machine learning models.</div>
@@ -1969,7 +1969,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.07m out of 303m repositories</span>
+                                    <span class="gh">ranked 4.07m out of 304m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2096,7 +2096,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2022, 14:10:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 3 May 2022, 14:47:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
