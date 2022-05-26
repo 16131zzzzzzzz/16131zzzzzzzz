@@ -1407,7 +1407,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>collabH/repository</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">知识仓库涉及到数据仓库建模、实时计算、大数据、数据中台、系统设计、Java、算法等。</div>
@@ -1460,7 +1460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simbafl/DataWarehouse</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">从数据仓库到用户画像，从数据建设到数据应用</div>
@@ -2099,7 +2099,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2022, 21:04:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0-beta</span>
+                <span>Last updated 26 May 2022, 21:50:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
