@@ -1407,7 +1407,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVlabs/planercnn</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PlaneRCNN detects and reconstructs piece-wise planar surfaces from a single RGB image</div>
@@ -2105,7 +2105,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jun 2022, 21:59:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 2 Jun 2022, 22:17:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
