@@ -1322,7 +1322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EleutherAI/gpt-neo</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.</div>
@@ -2050,7 +2050,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 13:33:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 10 Jun 2022, 14:07:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
