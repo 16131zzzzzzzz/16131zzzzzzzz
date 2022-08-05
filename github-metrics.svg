@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Prayforhanluo/CTR_Algorithm</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一些经典的CTR算法的复现; LR, FM, FFM, AFM, DeepFM, xDeepFM, PNN, DCN, DCNv2, DIFM, AutoInt, FiBiNet,AFN,ONN,DIN, DIEN ... （pytorch, tf2.0）</div>
@@ -2068,7 +2068,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2022, 22:08:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0-beta</span>
+                <span>Last updated 5 Aug 2022, 22:37:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
