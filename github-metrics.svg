@@ -1328,7 +1328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/PyCodeGPT</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pre-trained GPT model for Python code completion and generation</div>
@@ -1381,7 +1381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DeepGenX/CodeGenX</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code Generation using GPT-J!</div>
@@ -1947,7 +1947,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.16m out of 334m repositories</span>
+                                    <span class="gh">ranked 4.16m out of 335m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2074,7 +2074,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2022, 14:09:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 19 Aug 2022, 14:47:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
