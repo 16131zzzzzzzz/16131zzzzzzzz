@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>espnet/espnet</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">End-to-End Speech Processing Toolkit</div>
@@ -1491,7 +1491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/nv-wavenet</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reference implementation of real-time autoregressive wavenet inference</div>
@@ -2083,7 +2083,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Sept 2022, 14:29:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 16 Sept 2022, 15:05:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
