@@ -1328,7 +1328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/tacotron2</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tacotron 2 - PyTorch implementation with faster-than-realtime inference</div>
@@ -1381,7 +1381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coqui-ai/TTS</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production</div>
@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/TTS</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1491,7 +1491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CorentinJ/Real-Time-Voice-Cloning</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Clone a voice in 5 seconds to generate arbitrary speech in real-time</div>
@@ -2083,7 +2083,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Sept 2022, 00:07:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 17 Sept 2022, 01:03:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
