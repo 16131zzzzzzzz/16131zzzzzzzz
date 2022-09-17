@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/tacotron2</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tacotron 2 - PyTorch implementation with faster-than-realtime inference</div>
@@ -1386,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coqui-ai/TTS</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production</div>
@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/TTS</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1496,7 +1496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CorentinJ/Real-Time-Voice-Cloning</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Clone a voice in 5 seconds to generate arbitrary speech in real-time</div>
@@ -1663,7 +1663,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="46.5 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.666666666666664 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1688,9 +1688,9 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.22m out of 98m users</span>
+                                    <span class="gh">ranked 1.16m out of 98m users</span>
                                 </div>
-                                <div class="text">Published 29 public repositories</div>
+                                <div class="text">Published 30 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1961,7 +1961,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.20m out of 336m repositories</span>
+                                    <span class="gh">ranked 4.20m out of 341m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2088,7 +2088,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Sept 2022, 14:09:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 17 Sept 2022, 14:47:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
