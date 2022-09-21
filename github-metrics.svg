@@ -1355,7 +1355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Developer-Y/cs-video-courses</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of Computer Science courses with video lectures.</div>
@@ -1449,7 +1449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coqui-ai/TTS</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production</div>
@@ -2098,7 +2098,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Sept 2022, 14:35:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 21 Sept 2022, 15:32:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
