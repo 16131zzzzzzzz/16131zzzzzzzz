@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ocrmypdf/OCRmyPDF</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched</div>
@@ -2077,7 +2077,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2022, 03:08:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 3 Oct 2022, 03:35:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
