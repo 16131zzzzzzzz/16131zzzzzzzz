@@ -1360,7 +1360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KaHIP/KaHIP</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KaHIP -- Karlsruhe HIGH Quality Partitioning.</div>
@@ -1413,7 +1413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kenjihiranabe/The-Art-of-Linear-Algebra</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"</div>
@@ -1466,7 +1466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ocrmypdf/OCRmyPDF</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched</div>
@@ -2111,7 +2111,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2022, 23:04:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 27 Oct 2022, 23:42:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
