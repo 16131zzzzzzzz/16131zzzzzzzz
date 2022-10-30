@@ -1338,7 +1338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ashawkey/stable-dreamfusion</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.</div>
@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lierdakil/pandoc-crossref</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pandoc filter for cross-references</div>
@@ -2089,7 +2089,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2022, 08:41:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 30 Oct 2022, 11:13:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
