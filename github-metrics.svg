@@ -1492,7 +1492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ashawkey/stable-dreamfusion</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.</div>
@@ -2084,7 +2084,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2022, 17:03:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 5 Nov 2022, 17:36:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
