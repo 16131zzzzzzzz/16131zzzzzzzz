@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phohenecker/switch-cuda</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple bash script for switching between installed versions of CUDA.</div>
@@ -1403,7 +1403,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bycloudai/SwapCudaVersionWindows</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">How to swap/switch CUDA versions on Windows</div>
@@ -1444,7 +1444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sanster/lama-cleaner</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.</div>
@@ -2090,7 +2090,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2022, 13:34:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.30.0-beta</span>
+                <span>Last updated 22 Nov 2022, 14:08:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.30.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
