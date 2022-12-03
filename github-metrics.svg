@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LibCity/Bigscity-LibCity</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LibCity: An Open Library for Urban Spatio-temporal Data Mining</div>
@@ -2079,7 +2079,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2022, 09:51:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.30.0-beta</span>
+                <span>Last updated 3 Dec 2022, 10:31:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.30.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
