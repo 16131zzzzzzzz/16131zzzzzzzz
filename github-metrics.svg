@@ -1338,7 +1338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kenshin/simpread</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展</div>
@@ -1962,7 +1962,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.34m out of 364m repositories</span>
+                                    <span class="gh">ranked 4.27m out of 364m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2089,7 +2089,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2022, 02:02:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0-beta</span>
+                <span>Last updated 19 Dec 2022, 02:32:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
