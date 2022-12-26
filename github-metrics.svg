@@ -1398,7 +1398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SiriusXT/Zotero-Scholar-Rank</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Zotero显示CCF分区，JCR分区，影响因子, 中科院分区。</div>
@@ -2090,7 +2090,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2022, 22:04:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 26 Dec 2022, 22:34:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
