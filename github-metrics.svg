@@ -1360,7 +1360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AykutSarac/jsoncrack.com</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!</div>
@@ -1413,7 +1413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/mdBook</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create book from markdown files. Like Gitbook but implemented in Rust</div>
@@ -1466,7 +1466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nonebot/nonebot2</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python</div>
@@ -1901,7 +1901,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 774k out of 105m users</span>
+                                    <span class="gh">ranked 775k out of 105m users</span>
                                 </div>
                                 <div class="text">Followed by 14 users</div>
                             </div>
@@ -2111,7 +2111,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2023, 22:36:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 5 Jan 2023, 23:06:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
