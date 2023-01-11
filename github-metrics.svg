@@ -1355,7 +1355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AykutSarac/jsoncrack.com</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!</div>
@@ -1408,7 +1408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/mdBook</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create book from markdown files. Like Gitbook but implemented in Rust</div>
@@ -1461,7 +1461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nonebot/nonebot2</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python</div>
@@ -2106,7 +2106,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2023, 10:39:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 11 Jan 2023, 11:02:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
