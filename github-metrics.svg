@@ -1345,7 +1345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>comfyanonymous/ComfyUI</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful and modular stable diffusion GUI with a graph/nodes interface.</div>
@@ -1398,7 +1398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zauberzeug/nicegui</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create web-based UI with Python. The nice way.</div>
@@ -2097,7 +2097,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Mar 2023, 06:31:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 21 Mar 2023, 07:01:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
