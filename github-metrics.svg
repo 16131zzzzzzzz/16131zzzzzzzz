@@ -1328,7 +1328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pymupdf/PyMuPDF</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python bindings for MuPDF's rendering library.</div>
@@ -1381,7 +1381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>charlesw/tesseract</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A .Net wrapper for tesseract-ocr</div>
@@ -1987,7 +1987,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.70m out of 389m repositories</span>
+                                    <span class="gh">ranked 4.61m out of 389m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2114,7 +2114,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2023, 04:31:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 1 Apr 2023, 05:01:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
