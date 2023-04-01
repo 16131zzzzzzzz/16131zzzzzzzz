@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pymupdf/PyMuPDF</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python bindings for MuPDF's rendering library.</div>
@@ -1386,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>charlesw/tesseract</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A .Net wrapper for tesseract-ocr</div>
@@ -2119,7 +2119,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2023, 13:31:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 1 Apr 2023, 14:04:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
