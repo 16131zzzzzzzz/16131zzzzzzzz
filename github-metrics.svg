@@ -1338,7 +1338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openai/chatgpt-retrieval-plugin</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.</div>
@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ai-sidekick/sidekick</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps</div>
@@ -2124,7 +2124,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2023, 18:01:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 2 Apr 2023, 18:31:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
