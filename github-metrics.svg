@@ -1449,7 +1449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alibaba/libgrape-lite</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍇 A C++ library for parallel graph processing (GRAPE) 🍇</div>
@@ -1502,7 +1502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thu-pacman/GridGraph</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Out-of-core graph processing on a single machine.</div>
@@ -2043,7 +2043,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.66m out of 403m repositories</span>
+                                    <span class="gh">ranked 4.56m out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2170,7 +2170,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2023, 15:31:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 24 May 2023, 16:09:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
