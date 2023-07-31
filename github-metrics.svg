@@ -1345,7 +1345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zilliztech/akcio</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Akcio is a demonstration project for Retrieval Augmented Generation (RAG). It leverages the power of LLM to generate responses and uses vector databases to fetch relevant documents to enhance the quality and relevance of the output.</div>
@@ -1499,7 +1499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TencentYoutuResearch/OCR-AEC5k</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dataset of AAAI 2020 paper  "Accurate Structured-Text Spotting for Arithmetical Exercise Correction"</div>
@@ -1718,7 +1718,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.28m out of 115m users</span>
+                                    <span class="gh">ranked 1.28m out of 116m users</span>
                                 </div>
                                 <div class="text">Published 32 public repositories</div>
                             </div>
@@ -1875,7 +1875,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 729k out of 115m users</span>
+                                    <span class="gh">ranked 729k out of 116m users</span>
                                 </div>
                                 <div class="text">Followed by 17 users</div>
                             </div>
@@ -2034,7 +2034,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.77m out of 45m repositories</span>
+                                    <span class="gh">ranked 4.63m out of 46m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2161,7 +2161,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jul 2023, 18:02:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 31 Jul 2023, 18:33:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
