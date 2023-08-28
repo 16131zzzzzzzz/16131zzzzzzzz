@@ -1345,7 +1345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brendangregg/FlameGraph</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stack trace visualizer</div>
@@ -1392,7 +1392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BookerLiu/GeekDesk</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥小巧、美观的桌面快速启动工具     Small, beautiful desktop quickstart management tool with integrated Everything search</div>
@@ -1445,7 +1445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>epezent/implot</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Immediate Mode Plotting</div>
@@ -2039,7 +2039,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.72m out of 56m repositories</span>
+                                    <span class="gh">ranked 4.46m out of 56m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2166,7 +2166,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Aug 2023, 02:31:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 29 Aug 2023, 03:01:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
