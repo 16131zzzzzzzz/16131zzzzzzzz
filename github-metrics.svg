@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brendangregg/FlameGraph</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stack trace visualizer</div>
@@ -1397,7 +1397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BookerLiu/GeekDesk</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥小巧、美观的桌面快速启动工具     Small, beautiful desktop quickstart management tool with integrated Everything search</div>
@@ -1450,7 +1450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>epezent/implot</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Immediate Mode Plotting</div>
@@ -1503,7 +1503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>beeper/beepy</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Beepy</div>
@@ -2044,7 +2044,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.68m out of 59m repositories</span>
+                                    <span class="gh">ranked 4.54m out of 54m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2171,7 +2171,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Aug 2023, 11:31:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 29 Aug 2023, 12:02:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
