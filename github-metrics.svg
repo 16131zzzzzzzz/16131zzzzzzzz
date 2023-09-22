@@ -1328,7 +1328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tomhartke/knowledge-graph-from-GPT</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Using GPT to organize and access information, and generate questions. Long term goal is to make an agent-like research assistant.</div>
@@ -1700,7 +1700,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.31m out of 114m users</span>
+                                    <span class="gh">ranked 1.31m out of 120m users</span>
                                 </div>
                                 <div class="text">Published 32 public repositories</div>
                             </div>
@@ -1857,7 +1857,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 750k out of 114m users</span>
+                                    <span class="gh">ranked 750k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 17 users</div>
                             </div>
@@ -2016,7 +2016,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.61m out of 44.5m repositories</span>
+                                    <span class="gh">ranked 4.64m out of 49.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2143,7 +2143,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2023, 00:03:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Sept 2023, 00:36:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
