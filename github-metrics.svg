@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tomhartke/knowledge-graph-from-GPT</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Using GPT to organize and access information, and generate questions. Long term goal is to make an agent-like research assistant.</div>
@@ -2021,7 +2021,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.65m out of 55m repositories</span>
+                                    <span class="gh">ranked 4.67m out of 49.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2148,7 +2148,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2023, 15:01:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Sept 2023, 15:31:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
