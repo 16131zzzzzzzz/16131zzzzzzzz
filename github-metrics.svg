@@ -1344,7 +1344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PasqualeTurin/Geo-ER</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for 'Geospatial Entity Resolution' paper (WWW 2022)</div>
@@ -1873,7 +1873,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 608k out of 125m users</span>
+                                    <span class="gh">ranked 649k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 20 users</div>
                             </div>
@@ -2032,7 +2032,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.08m out of 52.6m repositories</span>
+                                    <span class="gh">ranked 5.08m out of 59.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2159,7 +2159,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2023, 02:03:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Nov 2023, 02:31:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
