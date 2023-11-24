@@ -1328,7 +1328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BuilderIO/gpt-crawler</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Crawl a site to generate knowledge files to create your own custom GPT from a URL</div>
@@ -1381,7 +1381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wangdongdut/PaperWriting</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1470,7 +1470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>THUDM/GraphMAE</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GraphMAE: Self-Supervised Masked Graph Autoencoders in KDD'22</div>
@@ -2005,7 +2005,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.05m out of 51.2m repositories</span>
+                                    <span class="gh">ranked 5.05m out of 48.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2132,7 +2132,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Nov 2023, 14:33:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Nov 2023, 15:02:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
