@@ -1339,7 +1339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wfjsw/danbooru-diffusion-prompt-builder</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Danbooru / NovelAI 标签超市</div>
@@ -1874,7 +1874,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 586k out of 127m users</span>
+                                    <span class="gh">ranked 625k out of 127m users</span>
                                 </div>
                                 <div class="text">Followed by 21 users</div>
                             </div>
@@ -2033,7 +2033,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.04m out of 59.6m repositories</span>
+                                    <span class="gh">ranked 5.07m out of 55.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2160,7 +2160,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Dec 2023, 12:01:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 30 Dec 2023, 12:32:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
