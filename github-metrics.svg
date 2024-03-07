@@ -1407,7 +1407,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>windingwind/zotero-plugin-toolkit</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Toolkit for Zotero Plugin Developers.</div>
@@ -1460,7 +1460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>windingwind/zotero-plugin-template</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A plugin template for Zotero.</div>
@@ -1513,7 +1513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Jackpopc/DevWeekly</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">每周五发布，精选优质开发者内容，包括开源项目、工具资源、技术文章等方面。</div>
@@ -1929,7 +1929,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.44m out of 88.7m repositories</span>
+                                    <span class="gh">ranked 3.44m out of 91.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2169,7 +2169,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2024, 02:07:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 8 Mar 2024, 02:31:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
