@@ -1381,7 +1381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/fairseq</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Facebook AI Research Sequence-to-Sequence Toolkit written in Python.</div>
@@ -1915,7 +1915,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.45m out of 81.5m repositories</span>
+                                    <span class="gh">ranked 3.45m out of 75.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2155,7 +2155,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Mar 2024, 00:34:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 16 Mar 2024, 01:01:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
