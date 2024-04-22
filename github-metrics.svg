@@ -1345,7 +1345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-webui/open-webui</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">User-friendly WebUI for LLMs (Formerly Ollama WebUI)</div>
@@ -1398,7 +1398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ivanfioravanti/chatbot-ollama</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chatbot Ollama is an open source chat UI for Ollama.</div>
@@ -1932,7 +1932,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.48m out of 200m repositories</span>
+                                    <span class="gh">ranked 3.48m out of 199m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2172,7 +2172,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2024, 00:34:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Apr 2024, 01:01:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
