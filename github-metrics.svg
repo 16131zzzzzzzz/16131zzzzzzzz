@@ -1355,7 +1355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>acbull/HGT-DGL</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for "Heterogeneous Graph Transformer" (WWW'20), which is based on Deep Graph Library (DGL)</div>
@@ -1721,7 +1721,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.29m out of 138m users</span>
+                                    <span class="gh">ranked 1.29m out of 136m users</span>
                                 </div>
                                 <div class="text">Published 35 public repositories</div>
                             </div>
@@ -1878,7 +1878,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 588k out of 138m users</span>
+                                    <span class="gh">ranked 588k out of 136m users</span>
                                 </div>
                                 <div class="text">Followed by 24 users</div>
                             </div>
@@ -1924,7 +1924,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.52m out of 197m repositories</span>
+                                    <span class="gh">ranked 3.52m out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2164,7 +2164,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2024, 21:31:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 12 Jun 2024, 22:02:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
