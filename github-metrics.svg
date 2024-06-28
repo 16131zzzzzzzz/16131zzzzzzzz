@@ -1328,7 +1328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cubiq/ComfyUI_IPAdapter_plus</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1382,7 +1382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cozymantis/style-transfer-comfyui-workflow</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A style transfer testing workflow for ComfyUI. Made with 💚 by the CozyMantis squad.</div>
@@ -1910,7 +1910,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.53m out of 207m repositories</span>
+                                    <span class="gh">ranked 3.53m out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2150,7 +2150,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2024, 02:35:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Jun 2024, 03:02:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
