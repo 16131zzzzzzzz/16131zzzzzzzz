@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FunAudioLLM/CosyVoice</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.</div>
@@ -2177,7 +2177,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2024, 02:09:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Aug 2024, 02:38:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
