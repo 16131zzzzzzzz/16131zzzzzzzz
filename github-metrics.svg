@@ -1463,7 +1463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bobvinch/comfy-server</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">comfyui server to use comfyui API as easy as send a message</div>
@@ -1510,7 +1510,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fidecastro/ComfyUI-serverless</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A connector to use ComfyUI in serverless deployments</div>
@@ -1979,7 +1979,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.61m out of 215m repositories</span>
+                                    <span class="gh">ranked 3.61m out of 201m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2178,7 +2178,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Oct 2024, 01:03:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Oct 2024, 01:38:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
