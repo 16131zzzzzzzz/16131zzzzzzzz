@@ -1409,7 +1409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MrForExample/Comfy3D_Pre_Builds</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All the pre built dependencies for Comfy3D for all supported platforms</div>
@@ -1462,7 +1462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flowtyone/ComfyUI-Flowty-TripoSR</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TripoSR custom node for comfyui</div>
@@ -1817,7 +1817,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 69.3k out of 211m repositories</span>
+                                    <span class="gh">ranked 69.3k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 716 stars</div>
                             </div>
@@ -1863,7 +1863,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 252k out of 211m repositories</span>
+                                    <span class="gh">ranked 252k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 52 times</div>
                             </div>
@@ -2184,7 +2184,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2024, 23:08:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Oct 2024, 23:37:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
