@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Acly/krita-ai-diffusion</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.</div>
@@ -1794,7 +1794,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 60.3k out of 223m repositories</span>
+                                    <span class="gh">ranked 60.3k out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 830 stars</div>
                             </div>
@@ -1840,7 +1840,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 215k out of 223m repositories</span>
+                                    <span class="gh">ranked 215k out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 61 times</div>
                             </div>
@@ -2161,7 +2161,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2024, 06:39:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Nov 2024, 07:24:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
