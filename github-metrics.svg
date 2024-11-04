@@ -1345,7 +1345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kijai/ComfyUI-IC-Light</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Using IC-LIght models in ComfyUI</div>
@@ -1398,7 +1398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TencentQQGYLab/ComfyUI-ELLA</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ELLA nodes for ComfyUI</div>
@@ -1445,7 +1445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mainite/VideoSlim</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VideoSlim  一款无损的视频压缩工具</div>
@@ -1800,7 +1800,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 56.5k out of 206m repositories</span>
+                                    <span class="gh">ranked 56.5k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 889 stars</div>
                             </div>
@@ -1846,7 +1846,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 199k out of 206m repositories</span>
+                                    <span class="gh">ranked 199k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 66 times</div>
                             </div>
@@ -2167,7 +2167,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2024, 23:08:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Nov 2024, 23:37:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
