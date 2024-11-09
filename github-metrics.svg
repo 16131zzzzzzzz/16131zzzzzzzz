@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>luck-seu/parlib</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1434,7 +1434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xuqigang/VideoEditSDK</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">给视频添加特效、静态贴纸、动态贴纸、文字、水印，视频裁剪</div>
@@ -1784,7 +1784,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 53.5k out of 212m repositories</span>
+                                    <span class="gh">ranked 53.5k out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 941 stars</div>
                             </div>
@@ -1830,7 +1830,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 196k out of 212m repositories</span>
+                                    <span class="gh">ranked 196k out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 67 times</div>
                             </div>
@@ -2151,7 +2151,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Nov 2024, 23:02:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Nov 2024, 23:32:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
