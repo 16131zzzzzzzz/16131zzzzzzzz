@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>monicahq/monica</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Personal CRM. Remember everything about your friends, family and business relationships.</div>
@@ -1794,7 +1794,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 47.1k out of 216m repositories</span>
+                                    <span class="gh">ranked 47.1k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1092 stars</div>
                             </div>
@@ -1840,7 +1840,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 176k out of 216m repositories</span>
+                                    <span class="gh">ranked 176k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 75 times</div>
                             </div>
@@ -2161,7 +2161,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 21:42:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Dec 2024, 22:08:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
