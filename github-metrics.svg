@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>monicahq/monica</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Personal CRM. Remember everything about your friends, family and business relationships.</div>
@@ -1503,7 +1503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zorazrw/awesome-tool-llm</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1717,7 +1717,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.28m out of 150m users</span>
+                                    <span class="gh">ranked 1.28m out of 137m users</span>
                                 </div>
                                 <div class="text">Published 37 public repositories</div>
                             </div>
@@ -1794,7 +1794,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 47.1k out of 222m repositories</span>
+                                    <span class="gh">ranked 47.1k out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1093 stars</div>
                             </div>
@@ -1840,7 +1840,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 176k out of 222m repositories</span>
+                                    <span class="gh">ranked 176k out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 75 times</div>
                             </div>
@@ -1892,7 +1892,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 367k out of 150m users</span>
+                                    <span class="gh">ranked 367k out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 40 users</div>
                             </div>
@@ -2161,7 +2161,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2024, 00:45:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 Dec 2024, 01:07:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
