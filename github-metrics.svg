@@ -1338,7 +1338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>typesense/typesense</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences</div>
@@ -1793,7 +1793,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 46.6k out of 228m repositories</span>
+                                    <span class="gh">ranked 46.6k out of 226m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1106 stars</div>
                             </div>
@@ -1839,7 +1839,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 174k out of 228m repositories</span>
+                                    <span class="gh">ranked 174k out of 226m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 76 times</div>
                             </div>
@@ -2160,7 +2160,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Dec 2024, 01:34:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Dec 2024, 02:09:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
