@@ -1356,7 +1356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>typesense/typesense</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences</div>
@@ -1409,7 +1409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>monicahq/monica</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Personal CRM. Remember everything about your friends, family and business relationships.</div>
@@ -1811,7 +1811,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 46.6k out of 220m repositories</span>
+                                    <span class="gh">ranked 46.6k out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1108 stars</div>
                             </div>
@@ -1857,7 +1857,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 174k out of 220m repositories</span>
+                                    <span class="gh">ranked 174k out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 76 times</div>
                             </div>
@@ -2178,7 +2178,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Dec 2024, 18:42:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Dec 2024, 19:07:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
