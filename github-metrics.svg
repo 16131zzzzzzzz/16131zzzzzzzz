@@ -1355,7 +1355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dataabc/weiboSpider</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">新浪微博爬虫，用python爬取新浪微博数据</div>
@@ -1908,7 +1908,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 320k out of 152m users</span>
+                                    <span class="gh">ranked 319k out of 152m users</span>
                                 </div>
                                 <div class="text">Followed by 46 users</div>
                             </div>
@@ -2177,7 +2177,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jan 2025, 23:33:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Jan 2025, 00:08:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
