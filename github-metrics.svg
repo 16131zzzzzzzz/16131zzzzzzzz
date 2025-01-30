@@ -1460,7 +1460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HKUDS/MiniRAG</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">"MiniRAG: Making RAG Simpler with Small and Free Language Models"</div>
@@ -1815,7 +1815,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 44.3k out of 234m repositories</span>
+                                    <span class="gh">ranked 44.3k out of 233m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1194 stars</div>
                             </div>
@@ -1861,7 +1861,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 165k out of 234m repositories</span>
+                                    <span class="gh">ranked 165k out of 233m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 81 times</div>
                             </div>
@@ -2182,7 +2182,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jan 2025, 16:37:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 30 Jan 2025, 17:07:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
