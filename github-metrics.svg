@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opendatalab/MinerU</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。</div>
@@ -1805,7 +1805,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 44.3k out of 235m repositories</span>
+                                    <span class="gh">ranked 44.3k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1195 stars</div>
                             </div>
@@ -1851,7 +1851,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 165k out of 235m repositories</span>
+                                    <span class="gh">ranked 165k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 81 times</div>
                             </div>
@@ -2172,7 +2172,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2025, 04:33:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Feb 2025, 05:06:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
