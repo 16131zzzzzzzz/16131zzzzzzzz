@@ -1414,7 +1414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GlowLED/SimpleTransformer</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">for fun</div>
@@ -1461,7 +1461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lfnovo/open-notebook</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Open Source implementation of Notebook LM with more flexibility and features</div>
@@ -1514,7 +1514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codexu/note-gen</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一款专注于记录和写作的跨端 AI 笔记</div>
@@ -1816,7 +1816,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 44.4k out of 236m repositories</span>
+                                    <span class="gh">ranked 44.4k out of 231m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1194 stars</div>
                             </div>
@@ -1862,7 +1862,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 165k out of 236m repositories</span>
+                                    <span class="gh">ranked 165k out of 231m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 81 times</div>
                             </div>
@@ -2183,7 +2183,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2025, 04:35:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 6 Feb 2025, 05:07:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
