@@ -1361,7 +1361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GlowLED/SimpleTransformer</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">for fun</div>
@@ -1408,7 +1408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lfnovo/open-notebook</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Open Source implementation of Notebook LM with more flexibility and features</div>
@@ -1461,7 +1461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codexu/note-gen</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一款专注于记录和写作的跨端 AI 笔记</div>
@@ -1548,7 +1548,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        928
+                                        929
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1816,7 +1816,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 44.4k out of 235m repositories</span>
+                                    <span class="gh">ranked 44.4k out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1194 stars</div>
                             </div>
@@ -1862,7 +1862,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 165k out of 235m repositories</span>
+                                    <span class="gh">ranked 165k out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 81 times</div>
                             </div>
@@ -2183,7 +2183,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2025, 21:35:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Feb 2025, 22:07:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
