@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>16131zzzzzzzz/ACE_RAG</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Affordable, Clear and Efficient RAG System</div>
@@ -1782,7 +1782,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 44.4k out of 238m repositories</span>
+                                    <span class="gh">ranked 44.4k out of 237m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1196 stars</div>
                             </div>
@@ -1828,7 +1828,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 165k out of 238m repositories</span>
+                                    <span class="gh">ranked 165k out of 237m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 81 times</div>
                             </div>
@@ -2149,7 +2149,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2025, 02:37:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Feb 2025, 03:01:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
