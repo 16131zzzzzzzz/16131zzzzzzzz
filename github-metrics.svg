@@ -1457,7 +1457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ahmedkhaleel2004/gitdiagram</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram</div>
@@ -1806,7 +1806,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 44.5k out of 237m repositories</span>
+                                    <span class="gh">ranked 44.5k out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1197 stars</div>
                             </div>
@@ -1852,7 +1852,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 166k out of 237m repositories</span>
+                                    <span class="gh">ranked 166k out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 81 times</div>
                             </div>
@@ -2214,7 +2214,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2025, 13:08:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Feb 2025, 13:37:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
