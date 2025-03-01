@@ -1717,7 +1717,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.33m out of 157m users</span>
+                                    <span class="gh">ranked 1.33m out of 158m users</span>
                                 </div>
                                 <div class="text">Published 37 public repositories</div>
                             </div>
@@ -1794,7 +1794,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 43.4k out of 237m repositories</span>
+                                    <span class="gh">ranked 43.4k out of 241m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1235 stars</div>
                             </div>
@@ -1840,7 +1840,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 158k out of 237m repositories</span>
+                                    <span class="gh">ranked 158k out of 241m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 85 times</div>
                             </div>
@@ -1892,7 +1892,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 312k out of 157m users</span>
+                                    <span class="gh">ranked 312k out of 158m users</span>
                                 </div>
                                 <div class="text">Followed by 48 users</div>
                             </div>
@@ -2202,7 +2202,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2025, 02:39:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Mar 2025, 03:02:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
