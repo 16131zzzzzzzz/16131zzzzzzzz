@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Flame-Code-VLM/Flame-Code-VLM</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development.</div>
@@ -1794,7 +1794,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 43.4k out of 240m repositories</span>
+                                    <span class="gh">ranked 43.4k out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1235 stars</div>
                             </div>
@@ -1840,7 +1840,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 158k out of 240m repositories</span>
+                                    <span class="gh">ranked 158k out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 85 times</div>
                             </div>
@@ -2202,7 +2202,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Mar 2025, 15:31:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Mar 2025, 16:09:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
