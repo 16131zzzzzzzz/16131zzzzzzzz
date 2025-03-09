@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docmost/docmost</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.</div>
@@ -2201,7 +2201,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2025, 12:32:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Mar 2025, 13:02:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
