@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            544 Commits
+                            545 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.84659629145634" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="241.84659629145634" y="0" width="89.50526842491341" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="331.3518647163698" y="0" width="42.464209201890704" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="373.8160739182605" y="0" width="34.48991736661339" height="8" fill="#ffcc33"/>
-                    <rect mask="url(#languages-bar)" x="408.30599128487387" y="0" width="25.430801218368803" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="433.7367925032427" y="0" width="20.730802675747757" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.46759517899045" y="0" width="4.307283494211776" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.77487867320224" y="0" width="1.2251213267977985" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.0460258534751" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="241.0460258534751" y="0" width="89.75823752667102" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="330.8042633801461" y="0" width="42.58422596791673" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="373.3884893480628" y="0" width="34.587396359408615" height="8" fill="#ffcc33"/>
+                    <rect mask="url(#languages-bar)" x="407.97588570747143" y="0" width="25.5026763945947" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="433.4785621020661" y="0" width="20.97339681882731" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.45195892089345" y="0" width="4.31945718695323" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.7714161078467" y="0" width="1.228583892153313" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1487,7 +1487,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        12k
+                                        12.1k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1500,7 +1500,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        474
+                                        475
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1519,7 +1519,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Flame-Code-VLM/Flame-Code-VLM</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development.</div>
@@ -1821,7 +1821,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 43.4k out of 242m repositories</span>
+                                    <span class="gh">ranked 43.4k out of 239m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1243 stars</div>
                             </div>
@@ -1867,7 +1867,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 159k out of 242m repositories</span>
+                                    <span class="gh">ranked 159k out of 239m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 85 times</div>
                             </div>
@@ -2229,7 +2229,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2025, 15:31:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 13 Mar 2025, 16:11:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
