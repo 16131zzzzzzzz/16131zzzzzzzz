@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            589 Commits
+                            590 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.58365022783977" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="285.58365022783977" y="0" width="71.11265180698776" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="356.6963020348275" y="0" width="33.73815392516724" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="390.4344559599948" y="0" width="27.40251526759366" height="8" fill="#ffcc33"/>
-                    <rect mask="url(#languages-bar)" x="417.8369712275885" y="0" width="20.204975014757974" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="438.04194624234646" y="0" width="17.562513868045887" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.6044601103923" y="0" width="3.4221711944792035" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.02663130487156" y="0" width="0.9733686951285291" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.526212628244" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="285.526212628244" y="0" width="71.09834937749847" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="356.6245620057425" y="0" width="33.73136838763837" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="390.35593039338085" y="0" width="27.397003976248378" height="8" fill="#ffcc33"/>
+                    <rect mask="url(#languages-bar)" x="417.7529343696292" y="0" width="20.200911318311018" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="437.95384568794026" y="0" width="17.651498469070134" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.6053441570104" y="0" width="3.421482915235418" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.0268270722458" y="0" width="0.9731729277541533" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1387,7 +1387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TideDra/lmm-r1</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extend OpenRLHF to support LMM RL training for reproduction of DeepSeek-R1 on multimodal tasks.</div>
@@ -1789,7 +1789,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 43.3k out of 241m repositories</span>
+                                    <span class="gh">ranked 43.3k out of 242m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1252 stars</div>
                             </div>
@@ -1835,7 +1835,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 161k out of 241m repositories</span>
+                                    <span class="gh">ranked 161k out of 242m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 84 times</div>
                             </div>
@@ -2197,7 +2197,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2025, 00:09:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 22 Mar 2025, 00:43:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
