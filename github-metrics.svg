@@ -1356,7 +1356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/PIKE-RAG</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation</div>
@@ -1515,7 +1515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dzhng/deep-research</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.</div>
@@ -1817,7 +1817,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 43.3k out of 239m repositories</span>
+                                    <span class="gh">ranked 43.3k out of 243m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1254 stars</div>
                             </div>
@@ -1863,7 +1863,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 161k out of 239m repositories</span>
+                                    <span class="gh">ranked 161k out of 243m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 84 times</div>
                             </div>
@@ -2225,7 +2225,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2025, 14:12:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Mar 2025, 14:44:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
