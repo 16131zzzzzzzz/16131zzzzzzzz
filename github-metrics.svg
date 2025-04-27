@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            616 Commits
+                            617 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.04202873172324" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="263.04202873172324" y="0" width="79.04758471605324" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="342.08961344777646" y="0" width="37.502744065871575" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="379.5923575136481" y="0" width="30.460158523229254" height="8" fill="#ffcc33"/>
-                    <rect mask="url(#languages-bar)" x="410.05251603687736" y="0" width="22.601980222952875" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="432.65449625983024" y="0" width="22.45949818465184" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="455.11399444448205" y="0" width="3.8040258735204464" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.9180203180025" y="0" width="1.081979681997543" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.0873920744063" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="263.0873920744063" y="0" width="79.0546667547197" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="342.14205882912603" y="0" width="37.50610401525556" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="379.6481628443816" y="0" width="30.462887512624977" height="8" fill="#ffcc33"/>
+                    <rect mask="url(#languages-bar)" x="410.11105035700655" y="0" width="22.540995961873037" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="432.6520463188796" y="0" width="22.461510378131806" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="455.11355669701146" y="0" width="3.8043666841653416" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.91792338117676" y="0" width="1.0820766188232758" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1338,7 +1338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenBMB/BMTools</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins</div>
@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wbbeyourself/SCM4LLMs</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-Controlled Memory System for LLMs</div>
@@ -1559,7 +1559,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2025, 13:37:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 27 Apr 2025, 14:11:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
