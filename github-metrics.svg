@@ -1328,7 +1328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ryoppippi/ccusage</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A CLI tool for analyzing Claude Code usage from local JSONL files.</div>
@@ -1381,7 +1381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brennercruvinel/CCPlugins</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.</div>
@@ -1555,7 +1555,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2025, 03:31:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 30 Aug 2025, 04:08:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
