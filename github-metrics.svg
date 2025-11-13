@@ -1360,7 +1360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>diet103/claude-code-infrastructure-showcase</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents</div>
@@ -1413,7 +1413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>d-kimuson/claude-code-viewer</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects</div>
@@ -1466,7 +1466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dazuiba/CCNotify</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CCNotify provides desktop notifications for Claude Code, alerting you when Claude needs your input or completes tasks.</div>
@@ -1587,7 +1587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2025, 06:01:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Nov 2025, 06:39:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
