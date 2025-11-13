@@ -1413,7 +1413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>d-kimuson/claude-code-viewer</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects</div>
@@ -1466,7 +1466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dazuiba/CCNotify</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CCNotify provides desktop notifications for Claude Code, alerting you when Claude needs your input or completes tasks.</div>
@@ -1587,7 +1587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2025, 05:08:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Nov 2025, 05:31:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
