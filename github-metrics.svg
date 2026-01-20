@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/TRELLIS.2</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Native and Compact Structured Latents for 3D Generation</div>
@@ -1403,7 +1403,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-responses/open-responses</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted alternative to OpenAI's Responses API compatible with Agents SDK and works with all model providers (Claude/R1/Qwen/Ollama etc)</div>
@@ -1577,7 +1577,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2026, 13:19:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Jan 2026, 13:49:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
