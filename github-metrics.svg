@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ByteDance-Seed/WideSearch</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WideSearch: Benchmarking Agentic Broad Info-Seeking</div>
@@ -1403,7 +1403,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JoeyWu-tech/cursor-proxy</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1457,7 +1457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OSU-NLP-Group/ScienceAgentBench</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[ICLR'25] ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery</div>
@@ -1510,7 +1510,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheAgentCompany/TheAgentCompany</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An agent benchmark with tasks in a simulated software company.</div>
@@ -1578,7 +1578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Mar 2026, 13:16:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Mar 2026, 14:35:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
