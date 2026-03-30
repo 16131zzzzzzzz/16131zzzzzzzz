@@ -1345,7 +1345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ServiceNow/BrowserGym</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌎💪 BrowserGym, a Gym environment for web task automation</div>
@@ -1398,7 +1398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ServiceNow/AgentLab</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AgentLab: An open-source framework for developing, testing, and benchmarking web agents on diverse tasks, designed for scalability and reproducibility.</div>
@@ -1572,7 +1572,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2026, 06:02:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 31 Mar 2026, 07:00:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
