@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1165" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1182" class="">
     <defs>
         <style/>
     </defs>
@@ -1360,7 +1360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juliye2025/evil-read-arxiv</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Claude Code+Obsidian，邪修读论文就是快</div>
@@ -1463,7 +1463,7 @@
                                         <span>starred 7 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">The missing DevTools for Claude Code — inspect every tool call, subagent, and token like a browser inspector</div>
+                                <div class="field description">The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1581,7 +1581,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2026, 22:46:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Apr 2026, 00:08:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
