@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HKUSTDial/Supervisor-Skills</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。</div>
@@ -1403,7 +1403,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HKUSTDial/VisJudgeBench</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VisJudgeBench: A comprehensive benchmark for aesthetics and quality assessment of visualizations, featuring 3,090 expert-annotated samples with six-dimensional quality scores.</div>
@@ -1559,7 +1559,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2026, 02:58:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Apr 2026, 04:09:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
