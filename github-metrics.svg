@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HKUSTDial/DataMagic</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AI-powered data-to-video generation. Upload a table, get a narrated animated data story.</div>
@@ -1451,7 +1451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>weicj/2080Ti-LLM-Toolbox</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Single-request LLM serving recipes, patches, and benchmarks for modified RTX 2080 Ti 22GB / SM75 systems</div>
@@ -1498,7 +1498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>weicj/vLLM-2080Ti-Definitive</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The definitive vLLM runtime for dual RTX 2080 Ti 22GB + NVLink, delivering Qwen 27B local inference with 100+ tok/s single-request decode with support of FP8 weight</div>
@@ -1566,7 +1566,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jun 2026, 17:28:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 30 Jun 2026, 19:57:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
