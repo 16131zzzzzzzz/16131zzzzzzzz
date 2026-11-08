@@ -1,8 +1,8 @@
 name: Metrics
 on:
   # Schedule updates
-  schedule: [{cron: "*/30 * * * *"}]
-  push: {branches: "main"}
+  # schedule: [{cron: "*/30 * * * *"}]
+  # push: {branches: "main"}
   workflow_dispatch:
 jobs:
   github-metrics:
